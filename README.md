@@ -25,5 +25,5 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 ##Links
-* Link to code repository 
+* Link to code repository https://github.com/osayenko0315/Work-Day-Scheduler
 * Link to published page 
