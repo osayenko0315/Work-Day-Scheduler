@@ -26,4 +26,4 @@ THEN the saved events persist
 ```
 ##Links
 * Link to code repository https://github.com/osayenko0315/Work-Day-Scheduler
-* Link to published page 
+* Link to published page https://osayenko0315.github.io/Work-Day-Scheduler/
